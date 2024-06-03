@@ -2,4 +2,9 @@ loran
 john
 sam
 ben
-higgins
+karl
+amanda
+phil
+nick
+adding all these names
+should work
